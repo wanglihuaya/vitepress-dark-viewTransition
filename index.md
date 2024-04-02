@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Dark Mode View Transitions"
-  text: "A VitePress Site"
+  text: "A Great VitePress Site"
   tagline: My great project tagline
   actions:
     - theme: brand
